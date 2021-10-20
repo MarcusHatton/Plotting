@@ -1,0 +1,1 @@
+t_end=5.0,128x128,1e-3:1e-3,clf=0.4, 2dCE /w printing... timereal=14.4s
